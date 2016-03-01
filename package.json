@@ -1,0 +1,19 @@
+{
+  "name": "learnproject",
+  "version": "0.0.1",
+  "description": "A Flux driven client-side data application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeffwPotter/LearnProject.git"
+  },
+  "author": "Jeff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JeffwPotter/LearnProject/issues"
+  },
+  "homepage": "https://github.com/JeffwPotter/LearnProject#readme"
+}
